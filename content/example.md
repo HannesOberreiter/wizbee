@@ -1,0 +1,44 @@
+---
+title: "b.tree Beekeeping Software"
+description: "Webapplication and database for managing bee colonies"
+layout: "../../layouts/MainLayout.astro"
+lang: "en"
+---
+
+### b.tree - proudly serving since 2014
+
+Looking for an efficient way to manage your beekeeping tasks? Our beekeeping web application is just what you need! Designed to cater to both hobbyists and professionals, our app offers a quick and easy overview of your apiaries and colonies. With our app, you can keep track of your feedings, harvests, treatments, checkups, and more.
+
+Our application allows you to customize your beekeeping methods and edit options based on your needs. With an interactive dashboard calendar, you can easily keep track of past and upcoming beekeeping events. We also offer premium features, such as satellite images and weather overlays for apiary maps, as well as the option to export data as CSV or generate a full database backup. Premium users can also access the API which allows them to export iCal events and have access to helpful and responsive statistic in our beekeeping app.
+
+Our beekeeping web app is perfect for organic beekeepers who need to keep accurate records, as well as anyone who wants to manage their beekeeping tasks in the cloud. With our app, you can work simultaneously with multiple users and easily access your data in the field or at home without any syncing needs. Sign up for our app today and experience the benefits of efficient beekeeping management!
+
+### Cloud & Multi User
+
+Looking for a comprehensive beekeeping app? Look no further than our cloud-based and multi-user platform! While we don't offer an offline mode, you can easily access and edit your beekeeping records from any device with an internet connection. Plus, with the ability to have multiple users on the platform, you can easily collaborate and streamline your beekeeping operation. And for a more native app-like experience, simply install our PWA (Progressive Web Application) version.
+
+### Statistics & Data
+
+When it comes to statistics and data, our responsive tabular and graphic statistics make it easy to view all the important information you need. From honey harvests to bee hive performance, you can easily compare and analyze your data to make informed decisions for your operation. And with the ability to select specific hives or treatment methods, you can dive deep into the details to optimize your workflow. So why not start beekeeping with a data advantage today? Try our beekeeping web application and see the difference it can make for your operation!
+
+### Checkup and Queen Rearing
+
+With our easy-to-use tool, you can create your own customized queen rearing method, starting from any step you choose. Plus, you'll never miss an important rearing date again thanks to our intuitive calendar feature. And if you need to add a quick and simple task, just use the calendar on your dashboard or create a recurring task with our provided form.
+
+### Map & Calendar
+
+In addition to our Queen Rearing builder, we offer a powerful Map & Calendar tool to help you stay on top of all your beekeeping duties. Adding apiaries is as easy as a click of a mouse or a simple drag and drop, and our detailed map even includes weather overlay and satellite images (a premium feature). With our user-friendly calendar, you can easily manage all your upcoming and completed tasks. And as a premium user, you'll have the added benefit of being able to export your calendar to your phone (iCal).
+
+### NFC & Speech Recognition
+
+With our beekeeping app support for NFC tag reading and speech recognition, using the latest Chrome Browser on your laptop or Android device allows for quick and efficient use. Optimize your beekeeping experience with our easy-to-use and technology-forward application.
+
+### Why b.tree?
+
+If you're a beekeeper, you know how important it is to keep track of your hives and manage them effectively. That's why an online beekeeping like b.tree management app can be a game-changer. Here are some advantages of using such an app:
+
+1. Saves Time: With a beekeeping management app, you can easily keep track of all your hives in one place, saving you time and effort. You can easily input information about each hive, such as the location, upcoming feedings or treatments. This information is then stored and easily accessible whenever you need it.
+2. Remote Access: The app allows you to access your hive data from anywhere with an internet connection. This means you can check on your hives and make informed decisions even when you're not on-site.
+3. Data Analysis: The app can help you analyze data about your hives and their productivity. This can help you make better decisions about how to manage your hives for maximum productivity.
+
+Using an online beekeeping management app can help you streamline your hive management, save time, and make informed decisions about your honey bee colonies. So why not give it a try?
