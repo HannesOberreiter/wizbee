@@ -1,5 +1,7 @@
 # WizBee
 
+![WizBeeLogo](favicon-96x96.png)
+
 Simple answer bot integrated into [b.tree Beekeeping Software](https://www.btree.at) . This repository is a playground, currently the main goal is to upload the markdown documentation to a vector database.
 
 ## Setup
