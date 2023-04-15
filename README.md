@@ -1,14 +1,14 @@
 # WizBee
 
-Simple answer bot integrated into [https://www.btree.at/](b.tree Beekeeping Software). This repository is a playground, currently the main goal is to upload the markdown documentation to a vector database.
+Simple answer bot integrated into [b.tree Beekeeping Software](https://www.btree.at) . This repository is a playground, currently the main goal is to upload the markdown documentation to a vector database.
 
 ## Setup
 
-As vector database a Docker redis instance is used, see [https://github.com/HannesOberreiter/btree_database](github.com/HannesOberreiter/btree_database).
+As vector database a Docker redis instance is used, see [github.com/HannesOberreiter/btree_database](https://github.com/HannesOberreiter/btree_database).
 
-Our helper tool to create the LLM is Langchain [https://github.com/hwchase17/langchain/](github.com/hwchase17/langchain/).
+Our helper tool to create the LLM is Langchain [github.com/hwchase17/langchain/](https://github.com/hwchase17/langchain/).
 
-As AI framework we use [https://openai.com/](openai.com/).
+As AI framework we use [openai.com/](https://openai.com/).
 
 ## Structure
 
